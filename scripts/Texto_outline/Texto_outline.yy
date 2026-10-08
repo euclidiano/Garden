@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Texto_outline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Texto_outline",
+  "parent":{
+    "name":"script",
+    "path":"folders/script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
