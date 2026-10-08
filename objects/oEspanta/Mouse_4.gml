@@ -1,0 +1,1 @@
+global.segurando = "espantalho"

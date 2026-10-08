@@ -1,0 +1,1 @@
+draw_text_outlined(x,y,c_black,c_white,"Start",3,3,0);

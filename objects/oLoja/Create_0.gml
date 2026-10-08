@@ -1,0 +1,2 @@
+apertado=false;
+loja =false;

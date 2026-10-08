@@ -1,0 +1,1 @@
+estado = PlotState.COLHIVEL;

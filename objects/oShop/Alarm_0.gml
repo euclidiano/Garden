@@ -1,0 +1,1 @@
+//semSaldo = false;
